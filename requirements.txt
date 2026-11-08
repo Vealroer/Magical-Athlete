@@ -1,0 +1,5 @@
+fastapi==0.162.2
+starlette==1.10.0
+pydantic==2.11.7
+uvicorn==0.54.0
+websockets==17.4
